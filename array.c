@@ -11,7 +11,7 @@ data_type array_name [size1] [size2]...[sizeN]
 
 //program to print random number in arrays
 #include <stdio.h>
-int main()
+int main()  
 {
     int num[6]={3,7,12,17,21,29};
     printf("the output will be %d",num[3]);
